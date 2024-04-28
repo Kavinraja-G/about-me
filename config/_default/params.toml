@@ -7,6 +7,10 @@ Senior Engineer - Cloud & DevOps
 profilePicture = "images/profile.jpg"
 
 favicon = "favicons/"
+reversepagetitle = true
+enableEmoji = true
+fullPostContent = true
+contentratio = 0.7
 
 ## Theme settings
 displayMode = "dark"
