@@ -1,0 +1,27 @@
+title = "im_kavin"
+author = "Kavinraja G"
+description = """
+Cloud 🌩️ Containers 🐳 what not? 🚀
+Senior Engineer - Cloud & DevOps
+"""
+profilePicture = "images/profile.jpg"
+
+favicon = "favicons/"
+
+## Theme settings
+displayMode = "dark"
+disableThemeSwitcher = true
+
+## Social links
+[[socialIcons]]
+icon = "fab fa-linkedin"
+title = "Linkedin"
+url = "https://linkedin.com/in/kavinganesan/"
+
+[[socialIcons]]
+icon = "fab fa-github"
+title = "GitHub"
+url = "https://github.com/Kavinraja-G/"
+
+## Sidebar settings
+hidesidebar = true
