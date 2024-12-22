@@ -5,13 +5,13 @@ weight = 100
 url = "/"
 
 [[main]]
-name = "About"
+name = "Projects"
 weight = 200
-identifier = "about"
-url = "/about/"
+identifier = "projects"
+url = "/projects/"
 
 [[main]]
-name = "Posts"
+name = "Skills"
 weight = 300
-identifier = "posts"
-url = "/post/"
+identifier = "skills"
+url = "/skills/"

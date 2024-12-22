@@ -31,7 +31,7 @@ For macOS, Linux, and Windows, standalone binaries are available. Download the a
 #### macOS/Linux
 ```bash
 # Feel free to change the release/arch names accordingly
-curl -Lo crossplane-docs https://github.com/Kavinraja-G/crossplane-docs/releases/download/v0.1.0/crossplane-docs_v0.1.0_darwin_amd64.tar.gz
+curl -Lo crossplane-docs https://github.com/Kavinraja-G/crossplane-docs/releases/download/v0.1.2/crossplane-docs_v0.1.2_darwin_amd64.tar.gz
 chmod +x crossplane-docs
 sudo mv crossplane-docs /usr/local/bin/
 ```

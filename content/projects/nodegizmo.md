@@ -1,6 +1,6 @@
 +++
 author = "Kavin"
-title = "nodegizmo"
+title = "Nodegizmo"
 date = "2023-12-01"
 description = "A CLI utility for your Kubernetes nodes"
 categories = [

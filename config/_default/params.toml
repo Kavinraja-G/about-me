@@ -5,7 +5,9 @@ Cloud 🌩️ Containers 🐳 what not? 🚀
 Senior Engineer - Cloud & DevOps
 """
 profilePicture = "images/profile.jpg"
+mainSections = ["projects"]
 
+disableTitleCapitalization = true
 favicon = "favicons/"
 reversepagetitle = true
 enableEmoji = true
@@ -26,6 +28,11 @@ url = "https://linkedin.com/in/kavinganesan/"
 icon = "fab fa-github"
 title = "GitHub"
 url = "https://github.com/Kavinraja-G/"
+
+[[socialIcons]]
+icon = "fas fa-medal"
+title = "Credly"
+url = "https://www.credly.com/users/kavinraja-ganesan"
 
 ## Sidebar settings
 hidesidebar = true
